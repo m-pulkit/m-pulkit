@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m-pulkit
 - 👀 I’m interested in the world of data
-- 🌱 I’m currently learning methods in advanced data analysis
-- 💞️ I’m looking to collaborate on data analysis case studies
+- 🌱 I’m currently learning methods in machine learning data science
+- 💞️ I’m looking to collaborate on machine learning projects 
 <!-- 📫 How to reach me ...--->
 
 <!---
